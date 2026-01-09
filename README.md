@@ -2,12 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Dammy Olofntila>`
+- **CCID:** `<1705528>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+
+Google gemini was asked " How to call a class in Java", "How to push and pull in android studio"
 
 ## Verbal Collaboration
 
